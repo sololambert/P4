@@ -38,7 +38,7 @@ int main(){
 
     double imaginary;
 
-    imaginary = number2.i + number1.j;
+    imaginary = number2.i + number1.i;
 
     cout << "the sum of the real parts is "<< real << "\n";
     cout << "the sum of the imaginary parts is "<<imaginary;
